@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "C:/Users/Udenar/Desktop/laravel-curso/startbootstrap-business-casual-gh-pages"
+			//esta ruta carga la carpeta de la plantilla 
+		}
+	],
+	"settings": {}
+}
