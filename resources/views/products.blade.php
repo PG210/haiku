@@ -5,7 +5,7 @@
 <section class="page-section">
             <div class="container">
             <form method="post" action="{{route('enviarComentario')}}">
-            @csrf()
+            @csrf
                 <div class="form-group">
                     <label for="nombre" class="text-white"><b>Nombre</b></label>
                     <input type="text" class="form-control" id="nombre" name="nombre" required>

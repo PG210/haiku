@@ -14,7 +14,7 @@
                             </h2>
                               <!--Formulario-->
                               <form  method="post" action="{{route('enviarDatos')}}">
-                                  @csrf()
+                                  @csrf
                                 <div class="row">
                                     <div class="col">
                                     <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre" required>
