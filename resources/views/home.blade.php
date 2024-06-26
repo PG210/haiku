@@ -29,10 +29,7 @@
                                 <ul>
                                     <li>En 2001 se inició el proyecto con el nombre de OpenBeOS, ya que la empresa BeOS desapareció y los usuarios quedaron sin soporte a nuevas actualizaciones y nuevo software para sus equipos.</li>
                                     <li>Tres años mas tarde el proyecto cambió de nombre para evitar los derechos de marca que tenía Palm, la empresa que compró BeOS. La decisión de usar como nombre Haiku, una forma de poesía tradicional japonesa, usada en mensajes de error de BeOS, intentaba reflejar la sencillez y elegancia que se obtenía con el antiguo sistema operativo BeOS.</li>
-                                    <li>En septiembre de 2009 se libera la primera Alpha de HaikuLos usuarios que alguna vez usaron BeOS no van a poder evitar sentir una cierta nostalgia, y los recién llegados van a descubrir un nuevo sistema operativo diseñado para aprovechar al máximo el potencial de su hardware sin necesidad de tener conocimientos avanzados.</li>
-                                    <li>En Mayo de 2010 se libera la segunda Alpha de Haiku. meses después de la primera Alpha, la segunda es, como dicen desde el proyecto, “el resultado directo de la contribución de muchos voluntarios en todo el mundo“.</li>
-                                    <li>En Junio de 2011 se libera la tercer Alpha de Haiku. El propósito principal de esta versión es proporcionar a los desarrolladores de terceros interesados una versión estable para pruebas y desarrollo. Por ello, Haiku incluye un completo conjunto de herramientas de desarrollo.</li>
-                                </ul>
+                                    <li>En septiembre de 2009 </li></ul>
                             </p>
                         </div>
                     </div>
